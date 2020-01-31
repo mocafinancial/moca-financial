@@ -1,0 +1,19 @@
+{
+  "name": "@liquid-labs/moca_financial",
+  "version": "1.0.0-alpha.0",
+  "description": "MOCA Financail base company repo for liq.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/mocafinancial/MOCA_Financial.git"
+  },
+  "author": "Zane Rockenbaugh <zane@liquid-labs.com>",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/mocafinancial/MOCA_Financial/issues"
+  },
+  "homepage": "https://github.com/mocafinancial/MOCA_Financial#readme"
+}
