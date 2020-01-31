@@ -1,5 +1,5 @@
 {
-  "name": "@liquid-labs/moca_financial",
+  "name": "@moca/moca_financial",
   "version": "1.0.0-alpha.0",
   "description": "MOCA Financail base company repo for liq.",
   "main": "index.js",
