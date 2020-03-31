@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/mocafinancial/MOCA_Financial/issues"
   },
-  "homepage": "https://github.com/mocafinancial/MOCA_Financial#readme"
+  "homepage": "https://github.com/mocafinancial/MOCA_Financial#readme",
+  "dependencies": {
+    "@moca/moca_financial-policy": "file:.yalc/@moca/moca_financial-policy"
+  }
 }
