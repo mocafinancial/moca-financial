@@ -1,5 +1,5 @@
 {
-  "name": "@moca/moca_financial",
+  "name": "@moca/moca-financial",
   "version": "1.0.0-alpha.0",
   "description": "MOCA Financail base company repo for liq.",
   "main": "index.js",
@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/mocafinancial/MOCA_Financial#readme",
   "dependencies": {
+    "@moca/moca-financial-policy": "file:.yalc/@moca/moca-financial-policy",
     "@moca/moca_financial-policy": "file:.yalc/@moca/moca_financial-policy"
   }
 }
