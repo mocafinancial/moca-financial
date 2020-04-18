@@ -17,7 +17,6 @@
   },
   "homepage": "https://github.com/mocafinancial/MOCA_Financial#readme",
   "dependencies": {
-    "@moca/moca-financial-policy": "file:.yalc/@moca/moca-financial-policy",
-    "@moca/moca_financial-policy": "file:.yalc/@moca/moca_financial-policy"
+    "@moca/moca-financial-policy": "file:.yalc/@moca/moca-financial-policy"
   }
 }
