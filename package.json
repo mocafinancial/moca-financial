@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/mocafinancial/MOCA_Financial#readme",
   "dependencies": {
+    "@liquid-labs/policies-model": "file:.yalc/@liquid-labs/policies-model",
     "@moca/moca-financial-policy": "^1.0.0-alpha.4"
   }
 }
