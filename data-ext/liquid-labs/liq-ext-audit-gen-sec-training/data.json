@@ -15,12 +15,30 @@
     "lastCompleted": "2020-02-20",
     "evidence": "https://docs.google.com/spreadsheets/d/13FWBYFTjg9D56dHN2aQQZePpb2Qdoaqge0ytJaEwe1E/edit#gid=1535200595"
   },
-  "raj@mocapay.com": {},
-  "song@mocapay.com": {},
-  "noon@mocapay.com": {},
-  "mike@mocapay.com": {},
-  "andy@mocapay.com": {},
-  "arley@mocapay.com": {},
+  "raj@mocapay.com": {
+    "lastCompleted": "2020-05-12",
+    "evidence": "https://docs.google.com/spreadsheets/d/1vWMkXQax1eWXR9hyg43dandBEwa5vml4k_FotS3h3qs/edit#gid=324540235"
+  },
+  "song@mocapay.com": {
+    "lastCompleted": "2020-04-21",
+    "evidence": "https://docs.google.com/spreadsheets/d/1vWMkXQax1eWXR9hyg43dandBEwa5vml4k_FotS3h3qs/edit#gid=324540235"
+  },
+  "noon@mocapay.com": {
+    "lastCompleted": "2020-04-23",
+    "evidence": "https://docs.google.com/spreadsheets/d/1vWMkXQax1eWXR9hyg43dandBEwa5vml4k_FotS3h3qs/edit#gid=324540235"
+  },
+  "mike@mocapay.com": {
+    "lastCompleted": "2020-04-10",
+    "evidence": "https://docs.google.com/spreadsheets/d/1vWMkXQax1eWXR9hyg43dandBEwa5vml4k_FotS3h3qs/edit#gid=324540235"
+  },
+  "andy@mocapay.com": {
+    "lastCompleted": "2020-04-29",
+    "evidence": "https://docs.google.com/spreadsheets/d/1vWMkXQax1eWXR9hyg43dandBEwa5vml4k_FotS3h3qs/edit#gid=324540235"
+  },
+  "arley@mocapay.com": {
+    "lastCompleted": "2020-04-08",
+    "evidence": "https://docs.google.com/spreadsheets/d/1vWMkXQax1eWXR9hyg43dandBEwa5vml4k_FotS3h3qs/edit#gid=324540235"
+  },
   "thedward@barsoom.net": {},
   "chris.snow@spafbi.com": {},
   "nitin.parmar@yash.com": {},
@@ -30,5 +48,9 @@
   "jitendra.trivedia@yash.com": {},
   "tushant.gupta@yash.com": {},
   "vishal.rathod@yash.com": {},
-  "ravish.agnihotri@yash.com": {}
+  "ravish.agnihotri@yash.com": {},
+  "vedant@mocapay.com": {
+    "lastCompleted": "2020-04-23",
+    "evidence": "https://docs.google.com/spreadsheets/d/1vWMkXQax1eWXR9hyg43dandBEwa5vml4k_FotS3h3qs/edit#gid=324540235"
+  }
 }
