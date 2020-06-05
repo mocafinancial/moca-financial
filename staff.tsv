@@ -1,21 +1,21 @@
-Email	Family Name	Given Name	Start Date	Primary Roles	Secondary Roles
-john@mocapay.com	Burns	John	2019-04-01	Chief Executive Officer//	-
-raj@mocapay.com	Arora	Rajeev	2019-04-01	Chief Technical Officer/john@mocapay.com/,Chief Software Engineer/raj@mocapay.com/,Chief Data Engineer/raj@mocapay.com/,Chief Cloud Engineer/raj@mocapay.com/,Chief Network Engineer/raj@mocapay.com/	-
-song@mocapay.com	Kim	Song	2019-04-01	Chief Financial Officer/john@mocapay.com/	-
-zane@mocapay.com	Rockenbaugh	Zane	2019-04-01	Chief Operations Officer/john@mocapay.com/,General Manager/zane@mocapay.com/,Customer Service Manager/zane@mocapay.com/,Senior Cloud Engineer/raj@mocapay.com/,Card Program Manager/zane@mocapay.com/	-
-noon@mocapay.com	Maneerat	Noon	2019-04-01	Controller/song@mocapay.com/,Customer Service Manager/zane@mocapay.com/	-
-kelly@mocapay.com	Payne	Kelly	2019-04-01	Chief Marketing Officer/john@mocapay.com/,Product Manager/kelly@mocapay.com/,Brand Manager/kelly@mocapay.com/,Social Media Coordinator/kelly@mocapay.com/,Training Manager/kelly@mocapay.com/	-
-mike@mocapay.com	Moehle	Mike	2019-04-01	Chief Sales Officer/john@mocapay.com/,Account Manager/mike@mocapay.com/	-
-andy@mocapay.com	Schneider	Andy	2019-04-01	Senior Network Engineer/raj@mocapay.com/	-
-arley@mocapay.com	Burns	Arley	2019-04-01	Cloud Engineer/zane@mocapay.com/	-
-thedward@barsoom.net	Blevins	Edward	2019-04-01	Cloud Engineer/zane@mocapay.com/	-
-chris.snow@spafbi.com	Snow	Chris	2019-04-01	Cloud Engineer/zane@mocapay.com/	-
-nitin.parmar@yash.com	Parmar	Nitin	2019-04-01	UI Designer/raj@mocapay.com/	-
-nikhlesh.patidar@yash.com	Patidar	Nikhlesh	2019-04-01	Software Engineer/raj@mocapay.com/qual:Angular	-
-nitesh.kumawat@yash.com	Kumawat	Nitesh	2019-04-01	Software Engineer/raj@mocapay.com/qual:Angular	-
-anoop.jha@yash.com	Jha	Anoop	2019-04-01	Software Engineer/raj@mocapay.com/qual:Android	-
-jitendra.trivedia@yash.com	Trivedia	Jitendra	2019-04-01	Software Engineer/raj@mocapay.com/qual:Scala	-
-tushant.gupta@yash.com	Gupta	Tushant	2019-04-01	Senior Software Engineer/raj@mocapay.com/qual:Scala	-
-vishal.rathod@yash.com	Rathod	Vishal	2019-04-01	Software Engineer/raj@mocapay.com/qual:Scala	-
-ravish.agnihotri@yash.com	Agnihotri	Ravish	2019-04-01	Software Engineer/raj@mocapay.com/qual:iOS	-
-elliott@mocapay.com	Reed	Elliott	2019-04-01	Chief Administrative Officer/john@mocapay.com/,In House Counsel/elliott@mocapay.com/	
+Email	Family Name	Given Name	Start Date	Primary Roles	Secondary Roles	Employment Status
+john@mocapay.com	Burns	John	2019-04-01	Chief Executive Officer//	-	employee
+raj@mocapay.com	Arora	Rajeev	2019-04-01	Chief Technical Officer/john@mocapay.com/,Chief Software Engineer/raj@mocapay.com/,Chief Data Engineer/raj@mocapay.com/,Chief Cloud Engineer/raj@mocapay.com/,Chief Network Engineer/raj@mocapay.com/	-	employee
+song@mocapay.com	Kim	Song	2019-04-01	Chief Financial Officer/john@mocapay.com/	-	contractor
+zane@mocapay.com	Rockenbaugh	Zane	2019-04-01	Chief Operations Officer/john@mocapay.com/,General Manager/zane@mocapay.com/,Customer Service Manager/zane@mocapay.com/,Senior Cloud Engineer/raj@mocapay.com/,Card Program Manager/zane@mocapay.com/	-	contractor
+noon@mocapay.com	Maneerat	Noon	2019-04-01	Controller/song@mocapay.com/,Customer Service Manager/zane@mocapay.com/	-	contractor
+kelly@mocapay.com	Payne	Kelly	2019-04-01	Chief Marketing Officer/john@mocapay.com/,Product Manager/kelly@mocapay.com/,Brand Manager/kelly@mocapay.com/,Social Media Coordinator/kelly@mocapay.com/,Training Manager/kelly@mocapay.com/	-	contractor
+mike@mocapay.com	Moehle	Mike	2019-04-01	Chief Sales Officer/john@mocapay.com/,Account Manager/mike@mocapay.com/	-	contractor
+andy@mocapay.com	Schneider	Andy	2019-04-01	Senior Network Engineer/raj@mocapay.com/	-	contractor
+arley@mocapay.com	Burns	Arley	2019-04-01	Cloud Engineer/zane@mocapay.com/	-	contractor
+thedward@barsoom.net	Blevins	Edward	2019-04-01	Cloud Engineer/zane@mocapay.com/	-	contractor
+chris.snow@spafbi.com	Snow	Chris	2019-04-01	Cloud Engineer/zane@mocapay.com/	-	contractor
+nitin.parmar@yash.com	Parmar	Nitin	2019-04-01	UI Designer/raj@mocapay.com/	-	contractor
+nikhlesh.patidar@yash.com	Patidar	Nikhlesh	2019-04-01	Software Engineer/raj@mocapay.com/qual:Angular	-	contractor
+nitesh.kumawat@yash.com	Kumawat	Nitesh	2019-04-01	Software Engineer/raj@mocapay.com/qual:Angular	-	contractor
+anoop.jha@yash.com	Jha	Anoop	2019-04-01	Software Engineer/raj@mocapay.com/qual:Android	-	contractor
+jitendra.trivedia@yash.com	Trivedia	Jitendra	2019-04-01	Software Engineer/raj@mocapay.com/qual:Scala	-	contractor
+tushant.gupta@yash.com	Gupta	Tushant	2019-04-01	Senior Software Engineer/raj@mocapay.com/qual:Scala	-	contractor
+vishal.rathod@yash.com	Rathod	Vishal	2019-04-01	Software Engineer/raj@mocapay.com/qual:Scala	-	contractor
+ravish.agnihotri@yash.com	Agnihotri	Ravish	2019-04-01	Software Engineer/raj@mocapay.com/qual:iOS	-	contractor
+elliott@mocapay.com	Reed	Elliott	2019-04-01	Chief Administrative Officer/john@mocapay.com/,In House Counsel/elliott@mocapay.com/	-	contractor
