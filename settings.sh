@@ -9,6 +9,7 @@ ORG_NPM_SCOPE='moca'
 ORG_NICK_NAME='moca'
 ORG_POLICY_REPO='@moca/moca-financial-policy'
 ORG_STAFF_REPO='@moca/moca-financial'
-ORG_ROLES='node_modules/@moca/moca-financial-policy/roles.tsv'
-ORG_STRUCTURE='~/moca/moca-financial-policy/org_structure.json'
+
 ORG_CHART_TEMPLATE='~/liquid-labs/policy-core/org-chart.html.tmpl'
+
+COMPANY_EMAIL_DOMAIN='mocapay.com'
