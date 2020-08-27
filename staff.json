@@ -247,14 +247,23 @@
     "employmentStatus": "contractor"
   },
   {
-    "email": "ravish.agnihotri@yash.com",
-    "familyName": "Agnihotri",
-    "givenName": "Ravish",
-    "startDate": "2019-04-01",
+    "email": "arvind.sen@yash.com",
+    "familyName": "Sen",
+    "givenName": "Arvind",
+    "startDate": "2019-08-01",
     "roles": [
       { "name": "Software Engineer", "manager": "raj@mocapay.com", "qualifier": "iOS" },
       { "name": "Sensitive Data Handler" }
     ],
     "employmentStatus": "contractor"
+  },
+  {
+    "email": "vedant@mocapay.com",
+    "familyName": "Arora",
+    "givenName": "Vedant",
+    "startDate": "2020-05-01",
+    "roles": [
+      { "name": "Consultant", "manager": "mike@mocapay.com", "qualifier": "Market Research" }
+    ]
   }
 ]
