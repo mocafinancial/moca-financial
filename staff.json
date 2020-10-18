@@ -4,7 +4,11 @@
     "familyName": "Burns",
     "givenName": "John",
     "startDate": "2019-04-01",
-    "roles": [ { "name": "Chief Executive Officer" } ],
+    "roles": [
+      {
+        "name": "Chief Executive Officer"
+      }
+    ],
     "employmentStatus": "employee",
     "parameters": {
       "USES_CENTRALIZED_ANTIVIRUS": true,
@@ -17,12 +21,35 @@
     "givenName": "Rajeev",
     "startDate": "2019-04-01",
     "roles": [
-      { "name": "Chief Technical Officer", "manager": "john@mocapay.com" },
-      { "name": "Chief Software Engineer", "manager": "raj@mocapay.com", "acting": true },
-      { "name": "Chief Host Engineer", "manager": "raj@mocapay.com", "acting": true },
-      { "name": "Chief Data Engineer", "manager": "raj@mocapay.com", "acting": true },
-      { "name": "Chief Cloud Engineer", "manager": "raj@mocapay.com", "acting": true },
-      { "name": "Chief Network Engineer", "manager": "raj@mocapay.com", "acting": true }
+      {
+        "name": "Chief Technical Officer",
+        "manager": "john@mocapay.com"
+      },
+      {
+        "name": "Chief Software Engineer",
+        "manager": "raj@mocapay.com",
+        "acting": true
+      },
+      {
+        "name": "Chief Host Engineer",
+        "manager": "raj@mocapay.com",
+        "acting": true
+      },
+      {
+        "name": "Chief Data Engineer",
+        "manager": "raj@mocapay.com",
+        "acting": true
+      },
+      {
+        "name": "Chief Cloud Engineer",
+        "manager": "raj@mocapay.com",
+        "acting": true
+      },
+      {
+        "name": "Chief Network Engineer",
+        "manager": "raj@mocapay.com",
+        "acting": true
+      }
     ],
     "employmentStatus": "employee",
     "parameters": {
@@ -36,8 +63,13 @@
     "givenName": "Song",
     "startDate": "2019-04-01",
     "roles": [
-      { "name": "Chief Financial Officer", "manager": "john@mocapay.com" },
-      { "name": "Sensitive Data Handler" }
+      {
+        "name": "Chief Financial Officer",
+        "manager": "john@mocapay.com"
+      },
+      {
+        "name": "Sensitive Data Handler"
+      }
     ],
     "employmentStatus": "contractor",
     "parameters": {
@@ -51,13 +83,37 @@
     "givenName": "Zane",
     "startDate": "2019-04-01",
     "roles": [
-      { "name": "Chief Operations Officer", "manager": "john@mocapay.com", "acting": true },
-      { "name": "General Manager", "manager": "zane@mocapay.com" },
-      { "name": "Customer Service Manager", "manager": "zane@mocapay.com", "acting": true },
-      { "name": "Card Program Manager", "manager": "zane@mocapay.com", "acting": true },
-      { "name": "Senior Cloud Engineer", "manager": "raj@mocapay.com" },
-      { "name": "Senior Host Engineer", "manager": "raj@mocapay.com", "acting": true },
-      { "name": "Sensitive Data Handler" }
+      {
+        "name": "Chief Operations Officer",
+        "manager": "john@mocapay.com",
+        "acting": true
+      },
+      {
+        "name": "General Manager",
+        "manager": "zane@mocapay.com"
+      },
+      {
+        "name": "Customer Service Manager",
+        "manager": "zane@mocapay.com",
+        "acting": true
+      },
+      {
+        "name": "Card Program Manager",
+        "manager": "zane@mocapay.com",
+        "acting": true
+      },
+      {
+        "name": "Senior Cloud Engineer",
+        "manager": "raj@mocapay.com"
+      },
+      {
+        "name": "Senior Host Engineer",
+        "manager": "raj@mocapay.com",
+        "acting": true
+      },
+      {
+        "name": "Sensitive Data Handler"
+      }
     ],
     "employmentStatus": "contractor",
     "parameters": {
@@ -71,9 +127,18 @@
     "givenName": "Noon",
     "startDate": "2019-04-01",
     "roles": [
-      { "name": "Controller", "manager": "song@mocapay.com" },
-      { "name": "Customer Service Manager", "manager": "zane@mocapay.com", "acting": true },
-      { "name": "Sensitive Data Handler" }
+      {
+        "name": "Controller",
+        "manager": "song@mocapay.com"
+      },
+      {
+        "name": "Customer Service Manager",
+        "manager": "zane@mocapay.com",
+        "acting": true
+      },
+      {
+        "name": "Sensitive Data Handler"
+      }
     ],
     "employmentStatus": "contractor",
     "parameters": {
@@ -87,11 +152,29 @@
     "givenName": "Kelly",
     "startDate": "2019-04-01",
     "roles": [
-      { "name": "Chief Marketing Officer", "manager": "john@mocapay.com" },
-      { "name": "Product Manager", "manager": "kelly@mocapay.com", "acting": true },
-      { "name": "Brand Manager", "manager": "kelly@mocapay.com" },
-      { "name": "Social Media Coordinator", "manager": "kelly@mocapay.com", "acting": true },
-      { "name": "Training Manager", "manager": "kelly@mocapay.com", "acting": true }
+      {
+        "name": "Chief Marketing Officer",
+        "manager": "john@mocapay.com"
+      },
+      {
+        "name": "Product Manager",
+        "manager": "kelly@mocapay.com",
+        "acting": true
+      },
+      {
+        "name": "Brand Manager",
+        "manager": "kelly@mocapay.com"
+      },
+      {
+        "name": "Social Media Coordinator",
+        "manager": "kelly@mocapay.com",
+        "acting": true
+      },
+      {
+        "name": "Training Manager",
+        "manager": "kelly@mocapay.com",
+        "acting": true
+      }
     ],
     "employmentStatus": "contractor",
     "parameters": {
@@ -105,9 +188,19 @@
     "givenName": "Mike",
     "startDate": "2019-04-01",
     "roles": [
-      { "name": "Chief Sales Officer", "manager": "john@mocapay.com" },
-      { "name": "Sales Agent", "manager": "mike@mocapay.com" },
-      { "name": "Account Manager", "manager": "mike@mocapay.com", "acting": true }
+      {
+        "name": "Chief Sales Officer",
+        "manager": "john@mocapay.com"
+      },
+      {
+        "name": "Sales Agent",
+        "manager": "mike@mocapay.com"
+      },
+      {
+        "name": "Account Manager",
+        "manager": "mike@mocapay.com",
+        "acting": true
+      }
     ],
     "employmentStatus": "contractor",
     "parameters": {
@@ -121,8 +214,14 @@
     "givenName": "Elliott",
     "startDate": "2019-04-01",
     "roles": [
-      { "name": "Chief Administrative Officer", "manager": "john@mocapay.com" },
-      { "name": "In House Counsel", "manager": "elliott@mocapay.com" }
+      {
+        "name": "Chief Administrative Officer",
+        "manager": "john@mocapay.com"
+      },
+      {
+        "name": "In House Counsel",
+        "manager": "elliott@mocapay.com"
+      }
     ],
     "employmentStatus": "contractor",
     "parameters": {
@@ -136,7 +235,10 @@
     "givenName": "Andy",
     "startDate": "2019-04-01",
     "roles": [
-      { "name": "Senior Network Engineer", "manager": "raj@mocapay.com" }
+      {
+        "name": "Senior Network Engineer",
+        "manager": "raj@mocapay.com"
+      }
     ],
     "employmentStatus": "contractor"
   },
@@ -146,7 +248,10 @@
     "givenName": "Edward",
     "startDate": "2019-04-01",
     "roles": [
-      { "name": "Cloud Engineer", "manager": "zane@mocapay.com" }
+      {
+        "name": "Cloud Engineer",
+        "manager": "zane@mocapay.com"
+      }
     ],
     "employmentStatus": "contractor"
   },
@@ -156,7 +261,10 @@
     "givenName": "Arley",
     "startDate": "2019-04-01",
     "roles": [
-      { "name": "Cloud Engineer", "manager": "zane@mocapay.com" }
+      {
+        "name": "Cloud Engineer",
+        "manager": "zane@mocapay.com"
+      }
     ],
     "employmentStatus": "contractor"
   },
@@ -166,7 +274,10 @@
     "givenName": "Chris",
     "startDate": "2019-04-01",
     "roles": [
-      { "name": "Senior Host Engineer", "manager": "zane@mocapay.com" }
+      {
+        "name": "Senior Host Engineer",
+        "manager": "zane@mocapay.com"
+      }
     ],
     "employmentStatus": "contractor"
   },
@@ -176,7 +287,10 @@
     "givenName": "Nitin",
     "startDate": "2019-04-01",
     "roles": [
-      { "name": "UI Designer", "manager": "raj@mocapay.com" }
+      {
+        "name": "UI Designer",
+        "manager": "raj@mocapay.com"
+      }
     ],
     "employmentStatus": "contractor"
   },
@@ -186,8 +300,14 @@
     "givenName": "Nikhlesh",
     "startDate": "2019-04-01",
     "roles": [
-      { "name": "Software Engineer", "manager": "raj@mocapay.com", "qualifier": "Angular" },
-      { "name": "Sensitive Data Handler" }
+      {
+        "name": "Software Engineer",
+        "manager": "raj@mocapay.com",
+        "qualifier": "Angular"
+      },
+      {
+        "name": "Sensitive Data Handler"
+      }
     ],
     "employmentStatus": "contractor"
   },
@@ -197,8 +317,14 @@
     "givenName": "Nikhlesh",
     "startDate": "2019-04-01",
     "roles": [
-      { "name": "Software Engineer", "manager": "raj@mocapay.com", "qualifier": "Angular"},
-      { "name": "Sensitive Data Handler" }
+      {
+        "name": "Software Engineer",
+        "manager": "raj@mocapay.com",
+        "qualifier": "Angular"
+      },
+      {
+        "name": "Sensitive Data Handler"
+      }
     ],
     "employmentStatus": "contractor"
   },
@@ -208,8 +334,14 @@
     "givenName": "Anoop",
     "startDate": "2019-04-01",
     "roles": [
-      { "name": "Software Engineer", "manager": "raj@mocapay.com", "qualifier": "Android" },
-      { "name": "Sensitive Data Handler" }
+      {
+        "name": "Software Engineer",
+        "manager": "raj@mocapay.com",
+        "qualifier": "Android"
+      },
+      {
+        "name": "Sensitive Data Handler"
+      }
     ],
     "employmentStatus": "contractor"
   },
@@ -219,8 +351,14 @@
     "givenName": "Jitendra",
     "startDate": "2019-04-01",
     "roles": [
-      { "name": "Software Engineer", "manager": "raj@mocapay.com", "qualifier": "Scala" },
-      { "name": "Sensitive Data Handler" }
+      {
+        "name": "Software Engineer",
+        "manager": "raj@mocapay.com",
+        "qualifier": "Scala"
+      },
+      {
+        "name": "Sensitive Data Handler"
+      }
     ],
     "employmentStatus": "contractor"
   },
@@ -230,19 +368,14 @@
     "givenName": "Tushant",
     "startDate": "2019-04-01",
     "roles": [
-      { "name": "Senior Software Engineer", "manager": "raj@mocapay.com", "qualifier": "Scala" },
-      { "name": "Sensitive Data Handler" }
-    ],
-    "employmentStatus": "contractor"
-  },
-  {
-    "email": "vishal.rathod@yash.com",
-    "familyName": "Rathod",
-    "givenName": "Vishal",
-    "startDate": "2019-04-01",
-    "roles": [
-      { "name": "Software Engineer", "manager": "raj@mocapay.com", "qualifier": "Scala" },
-      { "name": "Sensitive Data Handler" }
+      {
+        "name": "Senior Software Engineer",
+        "manager": "raj@mocapay.com",
+        "qualifier": "Scala"
+      },
+      {
+        "name": "Sensitive Data Handler"
+      }
     ],
     "employmentStatus": "contractor"
   },
@@ -252,8 +385,14 @@
     "givenName": "Arvind",
     "startDate": "2019-08-01",
     "roles": [
-      { "name": "Software Engineer", "manager": "raj@mocapay.com", "qualifier": "iOS" },
-      { "name": "Sensitive Data Handler" }
+      {
+        "name": "Software Engineer",
+        "manager": "raj@mocapay.com",
+        "qualifier": "iOS"
+      },
+      {
+        "name": "Sensitive Data Handler"
+      }
     ],
     "employmentStatus": "contractor"
   },
@@ -263,7 +402,28 @@
     "givenName": "Vedant",
     "startDate": "2020-05-01",
     "roles": [
-      { "name": "Consultant", "manager": "mike@mocapay.com", "qualifier": "Market Research" }
+      {
+        "name": "Consultant",
+        "manager": "mike@mocapay.com",
+        "qualifier": "Market Research"
+      }
     ]
+  },
+  {
+    "email": "vijay.vaswani@yash.com",
+    "familyName": "Vaswani",
+    "givenName": "Vijay",
+    "startDate": "2020-07-01",
+    "roles": [
+      {
+        "name": "Software Engineer",
+        "manager": "raj@mocapay.com",
+        "qualifier": "Scala"
+      },
+      {
+        "name": "Sensitive Data Handler"
+      }
+    ],
+    "employmentStatus": "contractor"
   }
 ]
