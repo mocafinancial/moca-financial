@@ -93,11 +93,6 @@
         "manager": "zane@mocapay.com"
       },
       {
-        "name": "Customer Service Manager",
-        "manager": "zane@mocapay.com",
-        "acting": true
-      },
-      {
         "name": "Card Program Manager",
         "manager": "zane@mocapay.com",
         "acting": true
@@ -264,6 +259,10 @@
       {
         "name": "Cloud Engineer",
         "manager": "zane@mocapay.com"
+      },
+      {
+        "name": "Chief Quality Engineer",
+        "manager": "raj@mocapay.com"
       }
     ],
     "employmentStatus": "contractor"
@@ -422,6 +421,40 @@
       },
       {
         "name": "Sensitive Data Handler"
+      }
+    ],
+    "employmentStatus": "contractor"
+  },
+  {
+    "email": "jennifer@mocapay.com",
+    "familyName": "Struck",
+    "givenName": "Jennifer",
+    "startDate": "2020-07-01",
+    "roles": [
+      {
+        "name": "Senior Operations Agent",
+        "manager": "zane@mocapay.com"
+      },
+      {
+        "name": "Customer Service Agent",
+        "manager": "noon@mocapay.com"
+      }
+    ],
+    "employmentStatus": "contractor"
+  },
+  {
+    "email": "kandice@mocapay.com",
+    "familyName": "Bailey",
+    "givenName": "Kandice",
+    "startDate": "2020-07-01",
+    "roles": [
+      {
+        "name": "Senior Operations Agent",
+        "manager": "zane@mocapay.com"
+      },
+      {
+        "name": "Customer Service Agent",
+        "manager": "noon@mocapay.com"
       }
     ],
     "employmentStatus": "contractor"
