@@ -458,5 +458,27 @@
       }
     ],
     "employmentStatus": "contractor"
+  },
+  {
+    "email": "debbie@mocapay.com",
+    "familyName": "Sinner",
+    "givenName": "Debbie",
+    "startDate": "2020-07-01",
+    "roles": [
+      {
+        "name": "Customer Service Manager",
+        "manager": "zane@mocapay.com"
+      },
+      {
+        "name": "Quality Engineer",
+        "manager": "arley@mocapay.com",
+        "qualifier": "Apps"
+      },
+      {
+        "name": "Product Manager",
+        "manager": "kelly@mocapay.com"
+      }
+    ],
+    "employmentStatus": "contractor"
   }
 ]
