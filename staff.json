@@ -49,6 +49,12 @@
         "name": "Chief Network Engineer",
         "manager": "raj@mocapay.com",
         "acting": true
+      },
+      {
+        "name": "Production DC Admin"
+      },
+      {
+        "name": "Sensitive Data Handler"
       }
     ],
     "employmentStatus": "employee",
@@ -233,6 +239,9 @@
       {
         "name": "Senior Network Engineer",
         "manager": "raj@mocapay.com"
+      },
+      {
+        "name": "Production DC Admin"
       }
     ],
     "employmentStatus": "contractor"
@@ -432,7 +441,7 @@
     "startDate": "2020-07-01",
     "roles": [
       {
-        "name": "Senior Operations Agent",
+        "name": "Implementations Manager",
         "manager": "zane@mocapay.com"
       },
       {
@@ -449,7 +458,8 @@
     "startDate": "2020-07-01",
     "roles": [
       {
-        "name": "Senior Operations Agent",
+        "name": "Operations Account Manager",
+        "qualifier": "Visa",
         "manager": "zane@mocapay.com"
       },
       {
