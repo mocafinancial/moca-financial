@@ -1,12 +1,53 @@
 [
   {
+    "email": "board@mocapay.com",
+    "familyName": "of Directors",
+    "givenName": "Board",
+    "startDate": "2019-04-01",
+    "roles": [
+      {
+        "name": "Board of Directors"
+      }
+    ],
+    "employmentStatus": "employee"
+  },
+  {
+    "email": "jkeys@mathesonkeys.com",
+    "familyName": "Keys",
+    "givenName": "Jerry",
+    "startDate": "2019-04-01",
+    "roles": [
+      {
+        "name": "Outside Counsel",
+        "manager": "board@mocapay.com"
+      }
+    ],
+    "employmentStatus": "contractor"
+  },
+  {
     "email": "john@mocapay.com",
     "familyName": "Burns",
     "givenName": "John",
     "startDate": "2019-04-01",
     "roles": [
       {
-        "name": "Chief Executive Officer"
+        "name": "Chairman and CEO",
+        "manager": "board@mocapay.com"
+      },
+      {
+        "name": "President and CRO",
+        "manager": "john@mocapay.com",
+        "acting": true
+      },
+      {
+        "name": "EVP and COO",
+        "manager": "john@mocapay.com",
+        "acting": true
+      },
+      {
+        "name": "SVP Business Development",
+        "manager": "john@mocapay.com",
+        "acting": true
       }
     ],
     "employmentStatus": "employee",
@@ -22,7 +63,7 @@
     "startDate": "2019-04-01",
     "roles": [
       {
-        "name": "Chief Technical Officer",
+        "name": "EVP and CTO",
         "manager": "john@mocapay.com"
       },
       {
@@ -51,6 +92,11 @@
         "acting": true
       },
       {
+        "name": "Chief Quality Engineer",
+        "manager": "raj@mocapay.com",
+        "acting": true
+      },
+      {
         "name": "Production DC Admin"
       },
       {
@@ -70,7 +116,7 @@
     "startDate": "2019-04-01",
     "roles": [
       {
-        "name": "Chief Financial Officer",
+        "name": "EVP and CFO",
         "manager": "john@mocapay.com"
       },
       {
@@ -90,22 +136,18 @@
     "startDate": "2019-04-01",
     "roles": [
       {
-        "name": "Chief Operations Officer",
+        "name": "Security and Compliance Officer",
+        "manager": "john@mocapay.com"
+      },
+      {
+        "name": "General Manager",
         "manager": "john@mocapay.com",
         "acting": true
       },
       {
-        "name": "General Manager",
-        "manager": "zane@mocapay.com"
-      },
-      {
-        "name": "Card Program Manager",
-        "manager": "zane@mocapay.com",
-        "acting": true
-      },
-      {
         "name": "Senior Cloud Engineer",
-        "manager": "raj@mocapay.com"
+        "manager": "raj@mocapay.com",
+        "acting": true
       },
       {
         "name": "Senior Host Engineer",
@@ -133,11 +175,6 @@
         "manager": "song@mocapay.com"
       },
       {
-        "name": "Customer Service Manager",
-        "manager": "zane@mocapay.com",
-        "acting": true
-      },
-      {
         "name": "Sensitive Data Handler"
       }
     ],
@@ -154,7 +191,7 @@
     "startDate": "2019-04-01",
     "roles": [
       {
-        "name": "Chief Marketing Officer",
+        "name": "SVP Marketing",
         "manager": "john@mocapay.com"
       },
       {
@@ -190,17 +227,12 @@
     "startDate": "2019-04-01",
     "roles": [
       {
-        "name": "Chief Sales Officer",
+        "name": "SVP Sales",
         "manager": "john@mocapay.com"
       },
       {
         "name": "Sales Agent",
         "manager": "mike@mocapay.com"
-      },
-      {
-        "name": "Account Manager",
-        "manager": "mike@mocapay.com",
-        "acting": true
       }
     ],
     "employmentStatus": "contractor",
@@ -216,8 +248,8 @@
     "startDate": "2019-04-01",
     "roles": [
       {
-        "name": "Chief Administrative Officer",
-        "manager": "john@mocapay.com"
+        "name": "SVP Corporate Services",
+        "manager": "song@mocapay.com"
       },
       {
         "name": "In House Counsel",
@@ -247,6 +279,23 @@
     "employmentStatus": "contractor"
   },
   {
+    "email": "arley@mocapay.com",
+    "familyName": "Burns",
+    "givenName": "Arley",
+    "startDate": "2019-04-01",
+    "roles": [
+      {
+        "name": "Senior Cloud Engineer",
+        "manager": "zane@mocapay.com"
+      },
+      {
+        "name": "Quality Engineer",
+        "manager": "raj@mocapay.com"
+      }
+    ],
+    "employmentStatus": "contractor"
+  },
+  {
     "email": "thedward@barsoom.net",
     "familyName": "Blevins",
     "givenName": "Edward",
@@ -260,31 +309,14 @@
     "employmentStatus": "contractor"
   },
   {
-    "email": "arley@mocapay.com",
-    "familyName": "Burns",
-    "givenName": "Arley",
-    "startDate": "2019-04-01",
-    "roles": [
-      {
-        "name": "Cloud Engineer",
-        "manager": "zane@mocapay.com"
-      },
-      {
-        "name": "Chief Quality Engineer",
-        "manager": "raj@mocapay.com"
-      }
-    ],
-    "employmentStatus": "contractor"
-  },
-  {
-    "email": "chris.snow@spafbi.com",
-    "familyName": "Snow",
+    "email": "chris.lalos@gmail.com",
+    "familyName": "Lalos",
     "givenName": "Chris",
     "startDate": "2019-04-01",
     "roles": [
       {
-        "name": "Senior Host Engineer",
-        "manager": "zane@mocapay.com"
+        "name": "Cloud Engineer",
+        "manager": "arley@mocapay.com"
       }
     ],
     "employmentStatus": "contractor"
@@ -411,9 +443,8 @@
     "startDate": "2020-05-01",
     "roles": [
       {
-        "name": "Consultant",
-        "manager": "mike@mocapay.com",
-        "qualifier": "Market Research"
+        "name": "F, T, and A",
+        "manager": "song@mocapay.com"
       }
     ]
   },
@@ -441,12 +472,17 @@
     "startDate": "2020-07-01",
     "roles": [
       {
-        "name": "Implementations Manager",
-        "manager": "zane@mocapay.com"
+        "name": "VP Customer Service",
+        "manager": "john@mocapay.com"
       },
       {
-        "name": "Customer Service Agent",
-        "manager": "noon@mocapay.com"
+        "name": "Implementations Manager",
+        "manager": "kandice@mocapay.com"
+      },
+      {
+        "name": "Account Manager",
+        "qualifier": "FI",
+        "manager": "zane@mocapay.com"
       }
     ],
     "employmentStatus": "contractor"
@@ -458,13 +494,23 @@
     "startDate": "2020-07-01",
     "roles": [
       {
-        "name": "Operations Account Manager",
+        "name": "VP Implementations",
+        "manager": "zane@mocapay.com"
+      },
+      {
+        "name": "Card Program Manager",
+        "manager": "zane@mocapay.com",
+        "acting": true
+      },
+      {
+        "name": "Account Manager",
         "qualifier": "Visa",
         "manager": "zane@mocapay.com"
       },
       {
         "name": "Customer Service Agent",
-        "manager": "noon@mocapay.com"
+        "manager": "jennifer@mocapay.com",
+        "acting": true
       }
     ],
     "employmentStatus": "contractor"
@@ -476,17 +522,30 @@
     "startDate": "2020-07-01",
     "roles": [
       {
-        "name": "Customer Service Manager",
-        "manager": "zane@mocapay.com"
+        "name": "Customer Service Agent",
+        "manager": "jennifer@mocapay.com",
+        "acting": true
       },
       {
-        "name": "Quality Engineer",
-        "manager": "arley@mocapay.com",
-        "qualifier": "Apps"
+        "name": "Head of User Testing and Fraud Management",
+        "manager": "raj@mocapay.com"
+      }
+    ],
+    "employmentStatus": "contractor"
+  },
+  {
+    "email": "layton@mocapay.com",
+    "familyName": "Christensen",
+    "givenName": "Layton",
+    "startDate": "2020-07-01",
+    "roles": [
+      {
+        "name": "SVP Integrations",
+        "manager": "raj@mocapay.com"
       },
       {
-        "name": "Product Manager",
-        "manager": "kelly@mocapay.com"
+        "name": "Integrations Manager",
+        "manager": "layton@mocapay.com"
       }
     ],
     "employmentStatus": "contractor"
