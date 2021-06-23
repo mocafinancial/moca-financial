@@ -46,11 +46,6 @@
       {
         "name": "Chairman & CEO",
         "manager": "board@mocapay.com"
-      },
-      {
-        "name": "EVP & COO",
-        "manager": "john@mocapay.com",
-        "acting": true
       }
     ],
     "employmentStatus": "employee",
@@ -480,7 +475,7 @@
     "roles": [
       {
         "name": "General Manager",
-        "manager": "john@mocapay.com"
+        "manager": "gregg@mocapay.com"
       },
       {
         "name": "Card Program Manager",
@@ -503,7 +498,7 @@
     "roles": [
       {
         "name": "VP Customer Service",
-        "manager": "john@mocapay.com"
+        "manager": "gregg@mocapay.com"
       },
       {
         "name": "Customer Service Agent",
@@ -603,6 +598,20 @@
       {
         "name": "Marketing Administrator",
         "manager": "kelly@mocapay.com"
+      }
+    ],
+    "employmentStatus": "employee"
+  },
+  {
+    "email": "gregg@mocapay.com",
+    "familyName": "Gregg",
+    "givenName": "Bennett",
+    "startDate": "2020-07-01",
+    "roles": [
+      {
+        "name": "EVP & COO",
+        "manager": "john@mocapay.com",
+        "acting": true
       }
     ],
     "employmentStatus": "employee"
