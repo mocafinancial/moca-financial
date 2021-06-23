@@ -638,5 +638,19 @@
     ],
     "employmentStatus": "contractor",
     "tbd": true
+  },
+  {
+    "email": "itsupport@mocapay.com",
+    "familyName": "IT Intern",
+    "givenName": "",
+    "startDate": "2020-07-01",
+    "roles": [
+      {
+        "name": "IT Support",
+        "manager": "zane@mocapay.com"
+      }
+    ],
+    "employmentStatus": "employee",
+    "tbd": true
   }
 ]
