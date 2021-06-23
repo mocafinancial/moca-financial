@@ -603,5 +603,18 @@
       }
     ],
     "employmentStatus": "contractor"
+  },
+  {
+    "email": "tejal@mocapay.com",
+    "familyName": "Sahasrabudhe",
+    "givenName": "Tejal",
+    "startDate": "2020-07-01",
+    "roles": [
+      {
+        "name": "Marketing Administrator",
+        "manager": "kelly@mocapay.com"
+      }
+    ],
+    "employmentStatus": "employee"
   }
 ]
