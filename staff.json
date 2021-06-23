@@ -31,16 +31,16 @@
     "startDate": "2019-04-01",
     "roles": [
       {
-        "name": "Chairman and CEO",
+        "name": "Chairman & CEO",
         "manager": "board@mocapay.com"
       },
       {
-        "name": "President and CRO",
+        "name": "President & CRO",
         "manager": "john@mocapay.com",
         "acting": true
       },
       {
-        "name": "EVP and COO",
+        "name": "EVP & COO",
         "manager": "john@mocapay.com",
         "acting": true
       },
@@ -63,7 +63,7 @@
     "startDate": "2019-04-01",
     "roles": [
       {
-        "name": "EVP and CTO",
+        "name": "EVP & CTO",
         "manager": "john@mocapay.com"
       },
       {
@@ -116,7 +116,7 @@
     "startDate": "2019-04-01",
     "roles": [
       {
-        "name": "EVP and CFO",
+        "name": "EVP & CFO",
         "manager": "john@mocapay.com"
       },
       {
@@ -136,7 +136,7 @@
     "startDate": "2019-04-01",
     "roles": [
       {
-        "name": "Security and Compliance Officer",
+        "name": "Security & Compliance Officer",
         "manager": "john@mocapay.com"
       },
       {
@@ -443,7 +443,7 @@
     "startDate": "2020-05-01",
     "roles": [
       {
-        "name": "F, T, and A",
+        "name": "F, T, & A",
         "manager": "song@mocapay.com"
       }
     ]
@@ -527,7 +527,7 @@
         "acting": true
       },
       {
-        "name": "Head of User Testing and Fraud Management",
+        "name": "Head of User Testing & Fraud Management",
         "manager": "raj@mocapay.com"
       }
     ],
