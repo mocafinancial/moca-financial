@@ -506,6 +506,11 @@
         "manager": "john@mocapay.com"
       },
       {
+        "name": "Customer Service Agent",
+        "manager": "jennifer@mocapay.com",
+        "acting": true
+      },
+      {
         "name": "Implementations Manager",
         "manager": "kandice@mocapay.com"
       },
