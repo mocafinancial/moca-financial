@@ -25,6 +25,19 @@
     "employmentStatus": "contractor"
   },
   {
+    "email": "auditors@mocapay.com",
+    "familyName": "External Auditors",
+    "givenName": "",
+    "startDate": "2019-04-01",
+    "roles": [
+      {
+        "name": "External Auditors",
+        "manager": "board@mocapay.com"
+      }
+    ],
+    "employmentStatus": "contractor"
+  },
+  {
     "email": "john@mocapay.com",
     "familyName": "Burns",
     "givenName": "John",
