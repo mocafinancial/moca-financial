@@ -459,7 +459,7 @@
     "startDate": "2020-05-01",
     "roles": [
       {
-        "name": "F, T, & A",
+        "name": "Finance",
         "manager": "song@mocapay.com"
       }
     ]
@@ -562,6 +562,19 @@
       {
         "name": "Integrations Manager",
         "manager": "layton@mocapay.com"
+      }
+    ],
+    "employmentStatus": "contractor"
+  },
+  {
+    "email": "fedfis@mocapay.com",
+    "familyName": "FedFIS (Dave & Tanner Mayo)",
+    "givenName": "",
+    "startDate": "2020-07-01",
+    "roles": [
+      {
+        "name": "Business Analyst",
+        "manager": "arley@mocapay.com"
       }
     ],
     "employmentStatus": "contractor"
