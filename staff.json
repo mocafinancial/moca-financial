@@ -48,17 +48,7 @@
         "manager": "board@mocapay.com"
       },
       {
-        "name": "President & CRO",
-        "manager": "john@mocapay.com",
-        "acting": true
-      },
-      {
         "name": "EVP & COO",
-        "manager": "john@mocapay.com",
-        "acting": true
-      },
-      {
-        "name": "SVP Business Development",
         "manager": "john@mocapay.com",
         "acting": true
       }
@@ -114,6 +104,23 @@
       },
       {
         "name": "Sensitive Data Handler"
+      }
+    ],
+    "employmentStatus": "employee",
+    "parameters": {
+      "USES_CENTRALIZED_ANTIVIRUS": true,
+      "USES_CENTRALIZED_FIREWALL": true
+    }
+  },
+  {
+    "email": "shawn@mocapay.com",
+    "familyName": "Sinner",
+    "givenName": "Shawn",
+    "startDate": "2019-04-01",
+    "roles": [
+      {
+        "name": "EVP & President",
+        "manager": "john@mocapay.com"
       }
     ],
     "employmentStatus": "employee",
@@ -205,7 +212,7 @@
     "roles": [
       {
         "name": "SVP Marketing",
-        "manager": "john@mocapay.com"
+        "manager": "shawn@mocapay.com"
       },
       {
         "name": "Product Manager",
@@ -241,7 +248,7 @@
     "roles": [
       {
         "name": "SVP Sales",
-        "manager": "john@mocapay.com"
+        "manager": "shawn@mocapay.com"
       },
       {
         "name": "Sales Agent",
@@ -298,12 +305,8 @@
     "startDate": "2019-04-01",
     "roles": [
       {
-        "name": "Senior Cloud Engineer",
-        "manager": "zane@mocapay.com"
-      },
-      {
-        "name": "Quality Engineer",
-        "manager": "raj@mocapay.com"
+        "name": "SVP Business Development",
+        "manager": "shawn@mocapay.com"
       }
     ],
     "employmentStatus": "contractor"
@@ -329,7 +332,7 @@
     "roles": [
       {
         "name": "Cloud Engineer",
-        "manager": "arley@mocapay.com"
+        "manager": "raj@mocapay.com"
       }
     ],
     "employmentStatus": "contractor"
