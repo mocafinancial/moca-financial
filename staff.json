@@ -160,11 +160,6 @@
         "manager": "john@mocapay.com"
       },
       {
-        "name": "General Manager",
-        "manager": "john@mocapay.com",
-        "acting": true
-      },
-      {
         "name": "Senior Cloud Engineer",
         "manager": "raj@mocapay.com",
         "acting": true
@@ -478,6 +473,29 @@
     "employmentStatus": "contractor"
   },
   {
+    "email": "kandice@mocapay.com",
+    "familyName": "Bailey",
+    "givenName": "Kandice",
+    "startDate": "2020-07-01",
+    "roles": [
+      {
+        "name": "General Manager",
+        "manager": "john@mocapay.com"
+      },
+      {
+        "name": "Card Program Manager",
+        "manager": "kandice@mocapay.com",
+        "acting": true
+      },
+      {
+        "name": "Account Manager",
+        "qualifier": "Visa",
+        "manager": "kandice@mocapay.com"
+      }
+    ],
+    "employmentStatus": "contractor"
+  },
+  {
     "email": "jennifer@mocapay.com",
     "familyName": "Struck",
     "givenName": "Jennifer",
@@ -494,35 +512,7 @@
       {
         "name": "Account Manager",
         "qualifier": "FI",
-        "manager": "zane@mocapay.com"
-      }
-    ],
-    "employmentStatus": "contractor"
-  },
-  {
-    "email": "kandice@mocapay.com",
-    "familyName": "Bailey",
-    "givenName": "Kandice",
-    "startDate": "2020-07-01",
-    "roles": [
-      {
-        "name": "VP Implementations",
-        "manager": "zane@mocapay.com"
-      },
-      {
-        "name": "Card Program Manager",
-        "manager": "zane@mocapay.com",
-        "acting": true
-      },
-      {
-        "name": "Account Manager",
-        "qualifier": "Visa",
-        "manager": "zane@mocapay.com"
-      },
-      {
-        "name": "Customer Service Agent",
-        "manager": "jennifer@mocapay.com",
-        "acting": true
+        "manager": "kandice@mocapay.com"
       }
     ],
     "employmentStatus": "contractor"
