@@ -524,11 +524,6 @@
     "startDate": "2020-07-01",
     "roles": [
       {
-        "name": "Customer Service Agent",
-        "manager": "jennifer@mocapay.com",
-        "acting": true
-      },
-      {
         "name": "Head of User Testing & Fraud Management",
         "manager": "raj@mocapay.com"
       }
