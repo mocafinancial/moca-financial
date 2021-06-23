@@ -578,5 +578,20 @@
       }
     ],
     "employmentStatus": "contractor"
+  },
+  {
+    "email": "jim@mocapay.com",
+    "familyName": "Waugh",
+    "givenName": "jim",
+    "startDate": "2020-07-01",
+    "roles": [
+      {
+        "name": "Account Manager",
+        "manager": "mike@mocapay.com",
+        "qualifier": "FI",
+        "tbd": true
+      }
+    ],
+    "employmentStatus": "contractor"
   }
 ]
