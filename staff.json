@@ -543,19 +543,6 @@
     "employmentStatus": "contractor"
   },
   {
-    "email": "fedfis@mocapay.com",
-    "familyName": "FedFIS (Dave & Tanner Mayo)",
-    "givenName": "",
-    "startDate": "2020-07-01",
-    "roles": [
-      {
-        "name": "Business Analyst",
-        "manager": "arley@mocapay.com"
-      }
-    ],
-    "employmentStatus": "contractor"
-  },
-  {
     "email": "jim@mocapay.com",
     "familyName": "Waugh",
     "givenName": "Jim",
