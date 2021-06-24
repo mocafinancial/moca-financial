@@ -605,8 +605,7 @@
     "roles": [
       {
         "name": "EVP & COO",
-        "manager": "john@mocapay.com",
-        "acting": true
+        "manager": "john@mocapay.com"
       }
     ],
     "employmentStatus": "employee"
