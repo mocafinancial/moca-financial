@@ -119,7 +119,7 @@
     "startDate": "2019-04-01",
     "roles": [
       {
-        "name": "EVP & President",
+        "name": "President & CRO",
         "manager": "john@mocapay.com"
       }
     ],
@@ -137,26 +137,6 @@
     "roles": [
       {
         "name": "EVP & CFO",
-        "manager": "john@mocapay.com"
-      },
-      {
-        "name": "Sensitive Data Handler"
-      }
-    ],
-    "employmentStatus": "contractor",
-    "parameters": {
-      "USES_CENTRALIZED_ANTIVIRUS": true,
-      "USES_CENTRALIZED_FIREWALL": true
-    }
-  },
-  {
-    "email": "zane@mocapay.com",
-    "familyName": "Rockenbaugh",
-    "givenName": "Zane",
-    "startDate": "2019-04-01",
-    "roles": [
-      {
-        "name": "Head of Security & Compliance",
         "manager": "john@mocapay.com"
       },
       {
@@ -591,11 +571,32 @@
     "startDate": "2020-07-01",
     "roles": [
       {
-        "name": "EVP & COO",
+        "name": "Consulting SVP Operations",
         "manager": "john@mocapay.com"
       }
     ],
     "employmentStatus": "employee"
+  },
+  {
+    "email": "zane@mocapay.com",
+    "familyName": "Rockenbaugh",
+    "givenName": "Zane",
+    "startDate": "2019-04-01",
+    "roles": [
+      {
+        "name": "Consulting VP of Security & Compliance",
+        "manager": "john@mocapay.com",
+        "layout": "super"
+      },
+      {
+        "name": "Sensitive Data Handler"
+      }
+    ],
+    "employmentStatus": "contractor",
+    "parameters": {
+      "USES_CENTRALIZED_ANTIVIRUS": true,
+      "USES_CENTRALIZED_FIREWALL": true
+    }
   },
   {
     "email": "awsops@mocapay.com",
