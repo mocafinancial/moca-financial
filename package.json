@@ -13,12 +13,7 @@
   "author": "Zane Rockenbaugh <zane@liquid-labs.com>",
   "license": "UNLICENSED",
   "bugs": {
-    "url": "https://github.com/mocafinancial/MOCA_Financial/issues"
+    "url": "https://github.com/mocafinancial/moca-financial/issues"
   },
-  "homepage": "https://github.com/mocafinancial/MOCA_Financial#readme",
-  "dependencies": {
-    "@liquid-labs/orgs-model": "^1.0.0-beta.12",
-    "@liquid-labs/policies-model": "^1.0.0-beta.32",
-    "@moca/moca-financial-policy": "file:.yalc/@moca/moca-financial-policy"
-  }
+  "homepage": "https://github.com/mocafinancial/moca-financial#readme"
 }
