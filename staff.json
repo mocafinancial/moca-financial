@@ -449,20 +449,6 @@
       {
         "name": "VP Customer Support & Service",
         "manager": "gregg@mocapay.com"
-      },
-      {
-        "name": "Customer Service Agent",
-        "manager": "jennifer@mocapay.com",
-        "acting": true
-      },
-      {
-        "name": "Implementations Manager",
-        "manager": "kandice@mocapay.com"
-      },
-      {
-        "name": "Account Manager",
-        "qualifier": "FI",
-        "manager": "kandice@mocapay.com"
       }
     ],
     "employmentStatus": "contractor"
@@ -475,7 +461,7 @@
     "roles": [
       {
         "name": "Product Assurance Consultant",
-        "manager": "jennifer@mocapay.com"
+        "manager": "gregg@mocapay.com"
       }
     ],
     "employmentStatus": "contractor"
@@ -493,21 +479,6 @@
       {
         "name": "Integrations Manager",
         "manager": "layton@mocapay.com"
-      }
-    ],
-    "employmentStatus": "contractor"
-  },
-  {
-    "email": "jim@mocapay.com",
-    "familyName": "Waugh",
-    "givenName": "Jim",
-    "startDate": "2020-07-01",
-    "roles": [
-      {
-        "name": "Account Manager",
-        "manager": "mike@mocapay.com",
-        "qualifier": "FI",
-        "tbd": true
       }
     ],
     "employmentStatus": "contractor"
@@ -593,20 +564,6 @@
       }
     ],
     "employmentStatus": "contractor",
-    "tbd": true
-  },
-  {
-    "email": "itsupport@mocapay.com",
-    "familyName": "IT Intern",
-    "givenName": "",
-    "startDate": "2020-07-01",
-    "roles": [
-      {
-        "name": "IT Support",
-        "manager": "zane@mocapay.com"
-      }
-    ],
-    "employmentStatus": "employee",
     "tbd": true
   }
 ]
