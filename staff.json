@@ -204,7 +204,7 @@
     "startDate": "2019-04-01",
     "roles": [
       {
-        "name": "SVP & CAO",
+        "name": "SVP Administration & Corporate Secretary",
         "manager": "song@mocapay.com"
       },
       {
@@ -395,7 +395,7 @@
     "startDate": "2020-05-01",
     "roles": [
       {
-        "name": "Finance",
+        "name": "Financial Analyst",
         "manager": "song@mocapay.com"
       }
     ]
@@ -424,7 +424,7 @@
     "startDate": "2020-07-01",
     "roles": [
       {
-        "name": "General Manager",
+        "name": "SVP Implementations",
         "manager": "gregg@mocapay.com"
       },
       {
@@ -447,7 +447,7 @@
     "startDate": "2020-07-01",
     "roles": [
       {
-        "name": "VP Customer Service",
+        "name": "VP Customer Support & Service",
         "manager": "gregg@mocapay.com"
       },
       {
@@ -474,7 +474,7 @@
     "startDate": "2020-07-01",
     "roles": [
       {
-        "name": "Head of User Testing & Fraud Management",
+        "name": "Product Assurance Consultant",
         "manager": "jennifer@mocapay.com"
       }
     ],
