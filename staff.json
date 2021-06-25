@@ -65,12 +65,12 @@
         "manager": "john@mocapay.com"
       },
       {
-        "name": "Chief Software Engineer",
+        "name": "Head Software Engineer",
         "manager": "raj@mocapay.com",
         "acting": true
       },
       {
-        "name": "Chief Data Engineer",
+        "name": "Head Data Engineer",
         "manager": "raj@mocapay.com",
         "acting": true
       },
