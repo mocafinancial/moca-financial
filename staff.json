@@ -70,32 +70,7 @@
         "acting": true
       },
       {
-        "name": "Chief of Technical Operations",
-        "manager": "raj@mocapay.com",
-        "acting": true
-      },
-      {
-        "name": "Chief Host Engineer",
-        "manager": "raj@mocapay.com",
-        "acting": true
-      },
-      {
-        "name": "Chief Cloud Engineer",
-        "manager": "raj@mocapay.com",
-        "acting": true
-      },
-      {
-        "name": "Chief Network Engineer",
-        "manager": "raj@mocapay.com",
-        "acting": true
-      },
-      {
         "name": "Chief Data Engineer",
-        "manager": "raj@mocapay.com",
-        "acting": true
-      },
-      {
-        "name": "Chief Quality Engineer",
         "manager": "raj@mocapay.com",
         "acting": true
       },
@@ -251,7 +226,7 @@
     "roles": [
       {
         "name": "Senior Network Engineer",
-        "manager": "raj@mocapay.com"
+        "manager": "gregg@mocapay.com"
       },
       {
         "name": "Production DC Admin"
@@ -280,7 +255,7 @@
     "roles": [
       {
         "name": "Cloud Engineer",
-        "manager": "raj@mocapay.com"
+        "manager": "gregg@mocapay.com"
       }
     ],
     "employmentStatus": "contractor"
@@ -293,7 +268,7 @@
     "roles": [
       {
         "name": "Cloud Engineer",
-        "manager": "raj@mocapay.com"
+        "manager": "gregg@mocapay.com"
       }
     ],
     "employmentStatus": "contractor"
@@ -573,6 +548,11 @@
       {
         "name": "Consulting SVP Operations",
         "manager": "john@mocapay.com"
+      },
+      {
+        "name": "Head of Technical Operations",
+        "manager": "gregg@mocapay.com",
+        "acting": true
       }
     ],
     "employmentStatus": "employee"
@@ -605,19 +585,8 @@
     "startDate": "2020-07-01",
     "roles": [
       {
-        "name": "Senior Host Engineer",
-        "manager": "raj@mocapay.com",
-        "acting": true
-      },
-      {
-        "name": "Senior Cloud Engineer",
-        "manager": "raj@mocapay.com",
-        "acting": true
-      },
-      {
-        "name": "Senior Network Engineer",
-        "manager": "raj@mocapay.com",
-        "acting": true
+        "name": "Technical Operations Consultant",
+        "manager": "gregg@mocapay.com"
       },
       {
         "name": "Sensitive Data Handler"
