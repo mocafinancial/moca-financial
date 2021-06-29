@@ -65,37 +65,12 @@
         "manager": "john@mocapay.com"
       },
       {
-        "name": "Chief Software Engineer",
+        "name": "Head Software Engineer",
         "manager": "raj@mocapay.com",
         "acting": true
       },
       {
-        "name": "Chief of Technical Operations",
-        "manager": "raj@mocapay.com",
-        "acting": true
-      },
-      {
-        "name": "Chief Host Engineer",
-        "manager": "raj@mocapay.com",
-        "acting": true
-      },
-      {
-        "name": "Chief Cloud Engineer",
-        "manager": "raj@mocapay.com",
-        "acting": true
-      },
-      {
-        "name": "Chief Network Engineer",
-        "manager": "raj@mocapay.com",
-        "acting": true
-      },
-      {
-        "name": "Chief Data Engineer",
-        "manager": "raj@mocapay.com",
-        "acting": true
-      },
-      {
-        "name": "Chief Quality Engineer",
+        "name": "Head Data Engineer",
         "manager": "raj@mocapay.com",
         "acting": true
       },
@@ -119,7 +94,7 @@
     "startDate": "2019-04-01",
     "roles": [
       {
-        "name": "EVP & President",
+        "name": "President & CRO",
         "manager": "john@mocapay.com"
       }
     ],
@@ -137,26 +112,6 @@
     "roles": [
       {
         "name": "EVP & CFO",
-        "manager": "john@mocapay.com"
-      },
-      {
-        "name": "Sensitive Data Handler"
-      }
-    ],
-    "employmentStatus": "contractor",
-    "parameters": {
-      "USES_CENTRALIZED_ANTIVIRUS": true,
-      "USES_CENTRALIZED_FIREWALL": true
-    }
-  },
-  {
-    "email": "zane@mocapay.com",
-    "familyName": "Rockenbaugh",
-    "givenName": "Zane",
-    "startDate": "2019-04-01",
-    "roles": [
-      {
-        "name": "Head of Security & Compliance",
         "manager": "john@mocapay.com"
       },
       {
@@ -249,7 +204,7 @@
     "startDate": "2019-04-01",
     "roles": [
       {
-        "name": "SVP & CAO",
+        "name": "SVP Administration & Corporate Secretary",
         "manager": "song@mocapay.com"
       },
       {
@@ -271,7 +226,7 @@
     "roles": [
       {
         "name": "Senior Network Engineer",
-        "manager": "raj@mocapay.com"
+        "manager": "gregg@mocapay.com"
       },
       {
         "name": "Production DC Admin"
@@ -300,7 +255,7 @@
     "roles": [
       {
         "name": "Cloud Engineer",
-        "manager": "raj@mocapay.com"
+        "manager": "gregg@mocapay.com"
       }
     ],
     "employmentStatus": "contractor"
@@ -313,7 +268,7 @@
     "roles": [
       {
         "name": "Cloud Engineer",
-        "manager": "raj@mocapay.com"
+        "manager": "gregg@mocapay.com"
       }
     ],
     "employmentStatus": "contractor"
@@ -440,7 +395,7 @@
     "startDate": "2020-05-01",
     "roles": [
       {
-        "name": "Finance",
+        "name": "Financial Analyst",
         "manager": "song@mocapay.com"
       }
     ]
@@ -469,7 +424,7 @@
     "startDate": "2020-07-01",
     "roles": [
       {
-        "name": "General Manager",
+        "name": "SVP Implementations",
         "manager": "gregg@mocapay.com"
       },
       {
@@ -492,22 +447,8 @@
     "startDate": "2020-07-01",
     "roles": [
       {
-        "name": "VP Customer Service",
+        "name": "VP Customer Support & Service",
         "manager": "gregg@mocapay.com"
-      },
-      {
-        "name": "Customer Service Agent",
-        "manager": "jennifer@mocapay.com",
-        "acting": true
-      },
-      {
-        "name": "Implementations Manager",
-        "manager": "kandice@mocapay.com"
-      },
-      {
-        "name": "Account Manager",
-        "qualifier": "FI",
-        "manager": "kandice@mocapay.com"
       }
     ],
     "employmentStatus": "contractor"
@@ -519,8 +460,8 @@
     "startDate": "2020-07-01",
     "roles": [
       {
-        "name": "Head of User Testing & Fraud Management",
-        "manager": "jennifer@mocapay.com"
+        "name": "Product Assurance Consultant",
+        "manager": "gregg@mocapay.com"
       }
     ],
     "employmentStatus": "contractor"
@@ -538,34 +479,6 @@
       {
         "name": "Integrations Manager",
         "manager": "layton@mocapay.com"
-      }
-    ],
-    "employmentStatus": "contractor"
-  },
-  {
-    "email": "fedfis@mocapay.com",
-    "familyName": "FedFIS (Dave & Tanner Mayo)",
-    "givenName": "",
-    "startDate": "2020-07-01",
-    "roles": [
-      {
-        "name": "Business Analyst",
-        "manager": "arley@mocapay.com"
-      }
-    ],
-    "employmentStatus": "contractor"
-  },
-  {
-    "email": "jim@mocapay.com",
-    "familyName": "Waugh",
-    "givenName": "Jim",
-    "startDate": "2020-07-01",
-    "roles": [
-      {
-        "name": "Account Manager",
-        "manager": "mike@mocapay.com",
-        "qualifier": "FI",
-        "tbd": true
       }
     ],
     "employmentStatus": "contractor"
@@ -604,11 +517,37 @@
     "startDate": "2020-07-01",
     "roles": [
       {
-        "name": "EVP & COO",
+        "name": "Consulting SVP Operations",
         "manager": "john@mocapay.com"
+      },
+      {
+        "name": "Head of Technical Operations",
+        "manager": "gregg@mocapay.com",
+        "acting": true
       }
     ],
     "employmentStatus": "employee"
+  },
+  {
+    "email": "zane@mocapay.com",
+    "familyName": "Rockenbaugh",
+    "givenName": "Zane",
+    "startDate": "2019-04-01",
+    "roles": [
+      {
+        "name": "Consulting VP of Security & Compliance",
+        "manager": "john@mocapay.com",
+        "layout": "super"
+      },
+      {
+        "name": "Sensitive Data Handler"
+      }
+    ],
+    "employmentStatus": "contractor",
+    "parameters": {
+      "USES_CENTRALIZED_ANTIVIRUS": true,
+      "USES_CENTRALIZED_FIREWALL": true
+    }
   },
   {
     "email": "awsops@mocapay.com",
@@ -617,39 +556,14 @@
     "startDate": "2020-07-01",
     "roles": [
       {
-        "name": "Senior Host Engineer",
-        "manager": "raj@mocapay.com",
-        "acting": true
-      },
-      {
-        "name": "Senior Cloud Engineer",
-        "manager": "raj@mocapay.com",
-        "acting": true
-      },
-      {
-        "name": "Senior Network Engineer",
-        "manager": "raj@mocapay.com",
-        "acting": true
+        "name": "Technical Operations Consultant",
+        "manager": "gregg@mocapay.com"
       },
       {
         "name": "Sensitive Data Handler"
       }
     ],
     "employmentStatus": "contractor",
-    "tbd": true
-  },
-  {
-    "email": "itsupport@mocapay.com",
-    "familyName": "IT Intern",
-    "givenName": "",
-    "startDate": "2020-07-01",
-    "roles": [
-      {
-        "name": "IT Support",
-        "manager": "zane@mocapay.com"
-      }
-    ],
-    "employmentStatus": "employee",
     "tbd": true
   }
 ]

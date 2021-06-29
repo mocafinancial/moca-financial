@@ -14,5 +14,20 @@
       "@liquid-labs/policy-core",
       "@moca/moca-financial"
     ]
+  },
+  {
+    "issues": [
+      "https://github.com/mocafinancial/moca-financial-policy/issues/8"
+    ],
+    "branch": "2021.06.24-zane@liquid-labs.com-org_chart_updates_2",
+    "startTimestampLocal": "2021-06-24-2003 UTC",
+    "branchFrom": "45633461cf86f24fa85f78698d87167e63dd4037",
+    "description": "Org chart updates #2",
+    "workInitiator": "zane@liquid-labs.com",
+    "branchInitiator": "zane@liquid-labs.com",
+    "involvedProjects": [
+      "@moca/moca-financial-policy",
+      "@moca/moca-financial"
+    ]
   }
 ]
